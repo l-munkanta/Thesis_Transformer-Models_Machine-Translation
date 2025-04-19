@@ -12,6 +12,9 @@ strengths, weaknesses, and areas of improvement.
 
 **MODEL PERFORMANCE**
 
+![image](https://github.com/user-attachments/assets/74283bd3-2885-4eca-b090-cebdaf42a17e)
+
+
 **MarianMT Model Performance**
 
 MarianMT exhibited superior performance with significantly higher BLEU scores compared to the MT5 and AfriMT5 models. The MarianMT obtained a high level of translation quality on the
